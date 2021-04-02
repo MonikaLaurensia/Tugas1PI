@@ -41,9 +41,6 @@
           </div>
         </div>
 
-        <!-- <div class="form-item"><label for = "no_rk">No Rekam Medis* </label></div> 
-        <input type="text" name="no_rk" id = "no_rk" required> -->
-
         <div class="form-group">
           <div class="row mt-2">
           <div class="col-sm-1"></div>
@@ -52,13 +49,6 @@
           </div>
         </div>
 
-        <!-- <div class="form-item"><label for = "name">Nama*</label></div> 
-        <input type="text" name="name" id ="name" required> -->
-
-        <!-- <div class="form-item">Jenis Kelamin*</div>
-        <input type="radio" id="pria" name="gender" value="pria"><label for="pria">Pria</label>
-        <input type="radio" id="wanita" name="gender" value="wanita"><label for="pria">Wanita</label> -->
-        
         <div class="form-group">
           <div class="row mt-2">
           <div class="col-sm-1"></div>
@@ -68,9 +58,6 @@
           </div>
         </div>
 
-        <!-- <div class="form-item"><label for ="age">Umur*</label></div>
-        <input type="text" name="age" id="age" required> -->
-
         <div class="form-group">
           <div class="row mt-2">
           <div class="col-sm-1"></div>
@@ -78,10 +65,7 @@
           <div class="col-sm-7"><input type="text" name="age" class="form-control" id = "age" required>
           </div>
         </div>
-          
-        <!-- <div class="form-item"><label for = "poli">Nomor Handphone*</label></div>
-        <input type="text" name="no_hp" id="no_hp" required > -->
-
+  
         <div class="form-group">
           <div class="row mt-2">
           <div class="col-sm-1"></div>
@@ -90,10 +74,6 @@
           </div>
         </div>
 
-  
-        <!-- <div class="form-item"><label for = "address">Alamat</label></div>
-        <textarea name="body" id="address"></textarea>  -->
-
         <div class="form-group">
           <div class="row mt-2">
           <div class="col-sm-1"></div>
@@ -101,15 +81,6 @@
           <div class="col-sm-7"><textarea name="body" id="address"></textarea>
           </div>
         </div>
-
-
-        <!-- <div class="form-group">
-          <div class="row mt-2">
-            <div class="col-sm-1"></div>
-            <div class="col-sm-3"><label for="address">Alamat<span class="text-danger">*</span></label></div>
-            <div class="col-sm-7"><textarea name="address" class="form-control" id="address" placeholder="isi alamat pasien"></textarea>
-            </div>
-        </div> -->
 
           <div class="form-group">
           <div class="row mt-2">
@@ -131,10 +102,7 @@
             </div>
             </div>
         
-        
-        <!-- <button type="submit" class="btn btn-success btn-user btn-block">
-          Submit
-        </button> -->
+
         <input type="submit" value="Submit" name="submit">
       </form>
     </div>
