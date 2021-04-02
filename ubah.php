@@ -2,10 +2,10 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>FORM EDIT PASIEN</title>
+  <title>FORM EDIT DATA PASIEN</title>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
-<body class="bg-gradient-info">
+<body>
   <div class="header">
     <div class="header-left">Sistem Informasi Klinik</div>
     <div class="header-right">
@@ -16,6 +16,7 @@
       </ul>
     </div>
   </div>
+
     <section class="content">
       <div class="row justify-content-center">
         <div class="col-6">
