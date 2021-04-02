@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Data Pasien</title>
-  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body class="bg-gradient-info">
   <div class="header">
